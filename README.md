@@ -6,7 +6,7 @@
 
 ## Description
 
-This application uses the `google BooksApi, GraphQl and Apollo` for a booksearch. Users can create an account, search for any book listed in the api, and then save/delete their favorite books to their account.
+This application is a full stack MERN Application and uses the `google BooksApi` for a booksearch. Users can create an account, search for any book listed in the api, and then save/delete their favorite books to their account.
 
 ## License
 
