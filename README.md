@@ -1,4 +1,4 @@
-# Book Search Engine Starter Code
+# Book Search Engine
 
 # My-Tech-now
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-This application is a full stack MERN Application and uses the `google BooksApi` for a booksearch. Users can create an account, search for any book listed in the api, and then save/delete their favorite books to their account.
+This application is a full stack MERN Application that uses Apollo Server with GraphQL queries and mutations to fetch and modify data in combination with the `google BooksApi`. Users can create an account, search for any book listed in the api, and then save/delete their favorite books to their account.
 
 ## License
 
